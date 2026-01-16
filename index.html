@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Translator</title>
 
-   <link rel="stylesheet" href="src/css/reset.css">
-   <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/style.css">
 
 </head>
 
@@ -15,7 +15,7 @@
 
     <div class="container">
 
-        <textarea class="input-text" placeholder="Type your text here..." ></textarea>
+        <textarea class="input-text" placeholder="Type your text here..."></textarea>
 
         <div class="controls">
 
@@ -24,16 +24,10 @@
                 <option>English</option>
                 <option>Portuguese</option>
                 <option>Spanish</option>
-                <option>French</option>
-                <option>German</option>
-                <option>Italian</option>
-                <option>Chinese</option>
-                <option>Japanese</option>
-                <option>Russian</option>
-
+            
             </select>
 
-            <button>
+            <button onclick="translate()">
                 <img src="src/img/translate.svg" alt="Translate Icon">
             </button>
 
@@ -53,6 +47,8 @@
 
     </div>
 
+    <script src="src/js/index.js"></script>
+    
 </body>
 
 </html>
