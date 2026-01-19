@@ -16,3 +16,21 @@ async function translationText() {
     translateText.textContent = data.responseData.translatedText;
 
 }
+
+function hearVoice() {
+
+    let speech = window.webkitSpeechRecognition
+    let recognition = new speech();
+
+    recognition.lang = "en";
+    recognition.onresult = (event) => {
+
+        let transcript = event.results[0][0].transcript;
+        inputText.textContent = transcript;
+
+        translationText();
+
+    }
+
+    recognition.start();
+}
