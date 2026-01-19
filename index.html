@@ -21,17 +21,22 @@
 
             <select class="language">
 
-                <option>English</option>
-                <option>Portuguese</option>
-                <option>Spanish</option>
-            
+                <option value="pt-BR">Portuguese</option>
+                <option value="es">Spanish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="en">English</option>
+
             </select>
 
-            <button onclick="translate()">
+            <button onclick="translationText()">
                 <img src="src/img/translate.svg" alt="Translate Icon">
             </button>
 
-            <button>
+            <button onclick="hearVoice()">
                 <img src="src/img/microphone.svg" alt="Microphone Icon">
             </button>
 
@@ -48,7 +53,7 @@
     </div>
 
     <script src="src/js/index.js"></script>
-    
+
 </body>
 
 </html>
