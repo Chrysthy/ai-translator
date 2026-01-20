@@ -25,3 +25,13 @@
 <img src=".github/gif-do-projeto.gif" alt="gif do projeto">
 
 <br>
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- JavaScript
+- [MyMemory API](https://mymemory.translated.net/doc/spec.php)
+- Git and GitHub
+
+<br>
