@@ -37,7 +37,10 @@
 
 ## ✨ Features
 
--
+- Text translation
+- Multiple language support
+- Voice input (microphone)
+- Clean and easy-to-use interface
 
 <br>
 
