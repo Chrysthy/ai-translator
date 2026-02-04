@@ -1,6 +1,7 @@
 <h1 align="center">AI Translator </h1>
 
 <p align="center">  
+  <a href="#-live-demo">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,6 +19,21 @@
 </p>
 
 <br>
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://seu-link-aqui.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Tip: Use right-click → “Open in new tab”.</sub>
+</p>
+
+<br>
+
 
 ## 📸 Screenshots
 
