@@ -23,8 +23,8 @@
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://seu-link-aqui.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
+  <a href="https://chrysthy.github.io/ai-translator/">
+    <img src="https://img.shields.io/badge/Live%20Demo-GitHub-success?labelColor=black" />
   </a>
 </p>
 
